@@ -2,13 +2,8 @@
 - 👀 I’m interested in team work
 - 🌱 I’m currently an Undergraduate in Department of Computer Science and Engineering, University of Moratuwa,Sri Lanka.
 - 📫 How to reach me cal  +94 763220387
-<div align="center" width="50">
 
-<img src="https://user-images.githubusercontent.com/84805141/166402849-92f06472-f16f-4afa-9668-97ce43996db8.gif" alt="Welcome!" width="300"/>
 
-</div>
-
-<div align="left">
 <!---
 Vinojithab17/Vinojithab17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
