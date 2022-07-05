@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Vinojithab17
 - 👀 I’m interested in team work
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on every event
+- 🌱 I’m currently Undergraduate in Department of Computer Science and Engineering, University of Moratuwa,Sri Lanka.
 - 📫 How to reach me cal  +94 763220387
 
 <!---
