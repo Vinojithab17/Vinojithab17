@@ -46,9 +46,12 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ### ⚙️ &nbsp;Intern GitHub Analytics
-<img src="https://github-readme-stats.vercel.app/api?username=VinojithG" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinojithG" />
+<p align="center">
+<a href="https://github.com/VinojithG">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VinojithG&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VinojithG&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinojithab17" />
 
