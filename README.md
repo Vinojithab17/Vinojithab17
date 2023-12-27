@@ -26,8 +26,7 @@ You can click the Preview link to take a look at your changes.
 <img align="left"  width="48" height="48" src="https://img.icons8.com/color/48/amazon-s3.png" alt="amazon-s3"/>
 <img  align="left"  src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="48" height="48"/>
 <img  align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/>
-<br/>
-<br/>
+
 <img align="left" width="48" height="48" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo"/>
 
 <img  align="left" width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
@@ -45,6 +44,8 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
 <a href="https://github.com/Vinojithab17">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vinojithab17&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+	<br/>
+<br/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vinojithab17&layout=compact&langs_count=8&theme=algoliae"/>
 </a>
 </p>
