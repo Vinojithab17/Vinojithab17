@@ -12,16 +12,23 @@ You can click the Preview link to take a look at your changes.
 
 ### Technologies:
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img align="left" alt="css" width="50px" height="20px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
 <img align="left" alt="php" width="50px" height="20px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+
 <img align="left" alt="bootstrap" width="50px" height="20px"  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+
 <img align="left"  alt="mysql" width="50px" height="20px"  src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+
 <img align="left"  alt="sqlite" width="50px" height="20px"  src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+
 <img align="left"  alt="mui" width="50px" height="20px"  src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+
 <img align="left"  alt="node js" width="50px" height="20px"  src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+
 <img align="left"  alt="vscode" width="50px" height="20px"  src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+
 <br/>
 <br/>	
  
@@ -32,8 +39,6 @@ You can click the Preview link to take a look at your changes.
 <br/>
 
 
-<br />
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -43,18 +48,4 @@ You can click the Preview link to take a look at your changes.
 </a>
 </p>
 
-### ⚙️ &nbsp;Intern GitHub Analytics
-<p align="center">
-<a href="https://github.com/VinojithG">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VinojithG&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-</p>
-<br/>
-
-### ⚙️ &nbsp;My GitHub Analytics
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinojithab17" />
-
-<br/>
-<img src="https://github-profile-trophy.vercel.app/?username=Vinojithab17" />
 	
