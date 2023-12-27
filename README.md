@@ -20,13 +20,14 @@ You can click the Preview link to take a look at your changes.
 <img  align="left" width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-redux-an-open-source-javascript-library-for-managing-application-state-logo-color-tal-revivo.png" alt="external-redux-an-open-source-javascript-library-for-managing-application-state-logo-color-tal-revivo"/>
 <img  align="left" width="48" height="48" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/>
 <img align="left" width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
-<img  align="left" width="48" height="48" src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="github"/>
+
 
 <img  align="left" width="48" height="48" src="https://img.icons8.com/color/48/awslambda.png" alt="awslambda"/>
 <img align="left"  width="48" height="48" src="https://img.icons8.com/color/48/amazon-s3.png" alt="amazon-s3"/>
 <img  align="left"  src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="48" height="48"/>
 <img  align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/>
-
+<br/>
+<br/>
 <img align="left" width="48" height="48" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo"/>
 
 <img  align="left" width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
