@@ -23,27 +23,15 @@ You can click the Preview link to take a look at your changes.
 <img  align="left" width="48" height="48" src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="github"/>
 
 <img  align="left" width="48" height="48" src="https://img.icons8.com/color/48/awslambda.png" alt="awslambda"/>
+<img align="left"  width="48" height="48" src="https://img.icons8.com/color/48/amazon-s3.png" alt="amazon-s3"/>
+<img  align="left"  src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="48" height="48"/>
+<img  align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/>
 
-<img align="left" alt="php" width="50px" height="20px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img align="left" width="48" height="48" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-
-<img align="left" alt="bootstrap" width="50px" height="20px"  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-
-<img align="left"  alt="mysql" width="50px" height="20px"  src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-
-<img align="left"  alt="sqlite" width="50px" height="20px"  src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-
-<img align="left"  alt="mui" width="50px" height="20px"  src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-
-<img align="left"  alt="node js" width="50px" height="20px"  src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-
-<img align="left"  alt="vscode" width="50px" height="20px"  src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-
-<br/>
-<br/>	
- 
-<img width="48" height="48" src="https://img.icons8.com/color/48/awslambda.png" alt="awslambda"/>
+<img  align="left" width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
+<img  align="left"  width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
+<img align="left"  width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
 
 
 <br/>
