@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Technologies:
 
-
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/python.png" alt="python"/>
 <img align="left" alt="php" width="50px" height="20px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
